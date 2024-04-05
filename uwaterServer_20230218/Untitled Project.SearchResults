@@ -1,0 +1,4 @@
+---- dev_init Matches (3 in 2 files) ----
+Globa.h (include):void dev_init(void);
+Main.c:int dev_init(void)
+Main.c:	dev_init();
